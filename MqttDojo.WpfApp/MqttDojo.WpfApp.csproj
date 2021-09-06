@@ -2,12 +2,8 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>net5.0-windows</TargetFramework>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
     <UseWPF>true</UseWPF>
-  </PropertyGroup>
-
-  <PropertyGroup>
-	<PackageReference Include="MQTTnet" Version="3.0.16" />
   </PropertyGroup>
 
 </Project>
